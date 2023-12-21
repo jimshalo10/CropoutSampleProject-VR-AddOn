@@ -1,0 +1,11 @@
+# Cropout Sample Project Unreal for VR tested on Occulus  version 5.32 this wont work for earlier versions
+
+*This is NOT the latest version of  Cropout Sample Project*, which can be found in the Epic Games Launcher Sample Example section
+
+see [Explore Cropout, a top-down casual RTS sample project](https://forums.unrealengine.com/t/explore-cropout-a-top-down-casual-rts-sample-project-general-announcements/1239909)
+
+
+This is for people who have been having problems with downloading and converting to later Unreal Engine 5.3 versions
+to get this use the green "Code" button and select "Download Zip"
+
+
