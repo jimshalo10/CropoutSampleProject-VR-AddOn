@@ -8,4 +8,8 @@ see [Explore Cropout, a top-down casual RTS sample project](https://forums.unrea
 This is for people who have been having problems with downloading and converting to later Unreal Engine 5.3 versions
 to get this use the green "Code" button and select "Download Zip"
 
+Open UE 5 Editor and open Content Browser
+
+<img alt="Vr setup one" src="/VR%20how%20to%20update/1NavigateVRtemplate.png" align="top" width="600">
+
 
