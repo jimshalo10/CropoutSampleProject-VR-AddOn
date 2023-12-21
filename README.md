@@ -1,4 +1,6 @@
-# Cropout Sample Project Unreal for VR tested on Occulus  version 5.32 this wont work for earlier versions
+# Cropout Sample Project Unreal for VR
+
+tested on Occulus  version 5.3.2 this wont work for earlier versions
 
 *This is NOT the latest version of  Cropout Sample Project*, which can be found in the Epic Games Launcher Sample Example section
 
@@ -15,3 +17,8 @@ Open UE 5 Editor and open Content Browser
 Load VR Template Level map
 
 <img alt="Vr setup two" src="/VR%20how%20to%20update/2VRLevel%20loading.png" align="top" width="600">
+
+Load Village Level map
+
+<img alt="Vr setup one" src="/VR%20how%20to%20update/3Set%20Back%20to%20Village%20Level.png"  align="top" width="600">
+
