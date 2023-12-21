@@ -12,4 +12,6 @@ Open UE 5 Editor and open Content Browser
 
 <img alt="Vr setup one" src="/VR%20how%20to%20update/1NavigateVRtemplate.png" align="top" width="600">
 
+Load VR Template Level map
 
+<img alt="Vr setup two" src="/VR%20how%20to%20update/2VRLevel%20loading.png" align="top" width="600">
