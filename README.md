@@ -12,9 +12,13 @@ to get this use the green "Code" button and select "Download Zip"
 
 Open UE 5 Editor and open Content Browser
 
-Add the VR Startup content
+Use Add content
 
 <img alt="Vr add" src="/VR%20how%20to%20update/AddVR.png" align="top" width="600">
+
+Select the VR Startup content
+
+<img alt="Vr add" src="/VR%20how%20to%20update/AddVR53template.png" align="top" width="600">
 
 Navigate to VR Template
 
